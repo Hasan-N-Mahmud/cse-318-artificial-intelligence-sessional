@@ -1,0 +1,33 @@
+int[] row={1,-1,0,0};
+        int[] col={0,0,1,-1};
+        Node n1=new Node(null,int_mat,x,y,x,y,0);
+        pq.add(n1);
+        Node current,New;
+        k=0;
+        while(!pq.isEmpty())
+        {
+        current=pq.poll();
+        k++;
+        System.out.println(current.h_cost);
+
+        if (current.h_cost == 0)
+        {
+        current.printPath();
+        System.out.println("The cost is "+current.act_cost);
+        return;
+        }
+
+        for(i=0;i<4;i++)
+        {
+        if(((current.x + row[i] < 4) &&(current.x + row[i] > -1))&& ((current.y + col[i] < 4) && (current.y + col[i] > -1)))
+        {
+        New = new Node(current,current.mat,current.x,current.y,current.x+row[i],current.y+col[i],current.act_cost+1);
+        pq.add(New);
+        }
+        }
+
+
+        }
+
+
+        }
