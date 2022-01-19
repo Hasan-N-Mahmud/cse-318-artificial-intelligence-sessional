@@ -1,0 +1,105 @@
+car-f-92 File:
+Total courses: 543 
+Total students: 18419
+Degree of Saturation: 30
+Penalty (Consecutive pair) : 8.736902111949616
+Penalty (All possible pairs) : 9.69145990553233
+
+Degree of saturation (after Kempe-chain) 
+Penalty (Consecutive pair) : 6.177425484553993
+Penalty (All possible pairs) : 6.471361094521961
+
+Largest Degree: 32
+Penalty (Consecutive pair) : 9.475052934469842
+Penalty (All possible pairs) : 10.615288560725338
+
+largest Degree (After Kempe):
+Penalty (consecutive pair): 5.626689831152614 
+Penalty (all possible pair): 5.886638796894511 
+---------------------------------------------------------------------------------------
+
+
+car-s-91 File:
+Total courses: 682 
+Total students: 16926
+Degree of Saturation: 31
+Penalty (Consecutive pair) : 11.202646815550041
+Penalty (All possible pairs) : 12.454566938437907
+
+Degree of saturation (after Kempe-chain) 
+Penalty (Consecutive pair) : 7.924140375753279
+Penalty (All possible pairs) : 8.394718185040766
+
+Largest Degree: 34
+Penalty (Consecutive pair) : 10.467860096892355
+Penalty (All possible pairs) : 11.495037220843672
+
+largest Degree (After Kempe):
+Penalty (consecutive pair): 7.127141675528772 
+Penalty (all possible pair): 7.514061207609594 
+---------------------------------------------------------------------------------------
+
+
+kfu-s-93 File:
+Total courses: 461 
+Total students: 5349
+Degree of Saturation: 19
+Penalty (Consecutive pair) : 36.66348850252383
+Penalty (All possible pairs) : 46.72948214619555
+
+Degree of saturation (after Kempe-chain) 
+Penalty (Consecutive pair) : 19.93026733968966
+Penalty (All possible pairs) : 22.23481024490559
+
+Largest Degree: 20
+Penalty (Consecutive pair) : 36.65339315759955
+Penalty (All possible pairs) : 46.51598429613012
+
+largest Degree (After Kempe):
+Penalty (consecutive pair): 21.119274630772107 
+Penalty (all possible pair): 23.322677135913256 
+---------------------------------------------------------------------------------------
+
+
+tre-s-92 File:
+Total courses: 261 
+Total students: 4362
+Degree of Saturation: 23
+Penalty (Consecutive pair) : 14.160935350756533
+Penalty (All possible pairs) : 15.91036221916552
+
+Degree of saturation (after Kempe-chain) 
+Penalty (Consecutive pair) : 10.182485098578633
+Penalty (All possible pairs) : 10.930765703805594
+
+Largest Degree: 23
+Penalty (Consecutive pair) : 14.125171939477305
+Penalty (All possible pairs) : 15.893626776707933
+
+largest Degree (After Kempe):
+Penalty (consecutive pair): 10.26639156350298 
+Penalty (all possible pair): 10.968363136176066 
+---------------------------------------------------------------------------------------
+
+
+yor-f-83 File:
+Total courses: 181 
+Total students: 941
+Degree of Saturation: 20
+Penalty (Consecutive pair) : 48.722635494155156
+Penalty (All possible pairs) : 61.65887353878852
+
+Degree of saturation (after Kempe-chain) 
+Penalty (Consecutive pair) : 39.83528161530287
+Penalty (All possible pairs) : 47.34431455897981
+
+Largest Degree: 23
+Penalty (Consecutive pair) : 49.82996811902232
+Penalty (All possible pairs) : 64.68862911795962
+
+largest Degree (After Kempe):
+Penalty (consecutive pair): 36.088204038257174 
+Penalty (all possible pair): 42.30180658873539 
+---------------------------------------------------------------------------------------
+
+
